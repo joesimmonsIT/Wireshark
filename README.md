@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/kHXXRPE.png"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1> Wireshark - Installation</h1>
+This tutorial outlines the installation of Wireshark on a Windows 10 Virtual Machine in Microsoft Azure.<br />
 
 
 <h2>Video Demonstration</h2>
