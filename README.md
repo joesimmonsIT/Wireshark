@@ -17,11 +17,11 @@ This tutorial outlines the installation of Wireshark on a Windows 10 Virtual Mac
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machines
+- Remote Desktop
+- Wireshark Installation
+- Wireshark Confirmation
+  
 
 <h2>Installation Steps</h2>
 
