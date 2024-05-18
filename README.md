@@ -256,9 +256,9 @@ Select "Next".
 <img src="https://i.imgur.com/qkTgC7n.png"/>
 </p>
 <p>
-Select "Reboot now".
-Select "Finish".
-Remote Desktop Connection will be disconnected.
+Select "Reboot now". <br /> <br />
+Select "Finish". <br /> <br />
+Remote Desktop Connection will be disconnected. <br /> <br />
 </p>
 <br />
 
