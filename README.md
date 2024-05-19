@@ -45,7 +45,7 @@ Select "VM1".
 Copy Public IP Address. <br /> <br />
 Go to "Windows Pane". <br /> <br />
 Type "Remote Desktop Connection" in search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Paste Public IP Address. <br /> <br />
 Select "Connect". <br /> <br />
 </p>
@@ -63,7 +63,7 @@ Once Remote Desktop Connection is connected open a new internet browser.
 <img src="https://i.imgur.com/5QS4OMQ.png"/>
 </p>
 <p>
-Go to "Google".
+Go to Google "(www.google.com)".
 </p>
 <br />
 
@@ -71,7 +71,7 @@ Go to "Google".
 <img src="https://i.imgur.com/zDexkXf.png"/>
 </p>
 <p>
-Type "download wireshark" in the search bar and Press Enter.
+Type "download wireshark" in the search bar and Press "Enter".
 </p>
 <br />
 
@@ -276,7 +276,7 @@ Reconnect to "Remote Desktop Connection".
 <p>
 Go to "Windows Pane". <br /> <br />
 Type "wireshark" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 </p>
 <br />
 
